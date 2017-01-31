@@ -1,9 +1,12 @@
 # DIY-neural-nets
-A series of code and note to build your own neural-nets from scratch
+These are a collection of jupyter notebook with actual implementaiton and
+its outputs for building different kinds of neural nets from scratch.
+There are corresponding Medium posts too. Please check that out too!
 
 ## Main Contents
 
 ### 1. Seed Neural Nets
+- [Medium: Grow NNs - Part 0: The Seed Neural Nets](https://medium.com/@tk2bit/grow-neural-nets-part-0-the-seed-neural-nets-bc9a14a5d029#.sy2elw7om)
  * Input layer
  * Sigmoid function
  * Forward prop
