@@ -1,4 +1,4 @@
-# DIY-neural-nets
+# Grow Neural Nets
 These are a collection of jupyter notebook with actual implementaiton and
 its outputs for building different kinds of neural nets from scratch.
 There are corresponding Medium posts too. Please check that out too!
@@ -15,6 +15,7 @@ There are corresponding Medium posts too. Please check that out too!
  * Output layer
 
 ### 2. Neural Nets with Hyperparams
+- [Medium: Grow NNs - Part 1: Intro to Hyperparameters](https://medium.com/@tk2bit/grow-neural-nets-part-1-intro-to-hyperparameters-39e59b212118#.efngduic7)
  * Learning rate
  * Batch
  * Epochs
